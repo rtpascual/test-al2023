@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testal2023-dev-6c669-authRole",
+      "UnauthRoleArn": "arn:aws:iam::493321908002:role/amplify-testal2023-dev-6c669-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::493321908002:role/amplify-testal2023-dev-6c669-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-testal2023-dev-6c669-deployment",
+      "UnauthRoleName": "amplify-testal2023-dev-6c669-unauthRole",
+      "StackName": "amplify-testal2023-dev-6c669",
+      "StackId": "arn:aws:cloudformation:us-west-1:493321908002:stack/amplify-testal2023-dev-6c669/53a38130-dff5-11ee-9c3f-02adba931f8f",
+      "AmplifyAppId": "d3rajer5c1n0nd"
+    }
+  }
+}
