@@ -1,1 +1,1 @@
-echo "prepush hook"
+# echo "prepush hook"
